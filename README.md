@@ -1,12 +1,12 @@
 ### Hi I'm Fong - aka [Simpson Fong][profile]
 
-## I'm a student, youngster and a humans with dreams
-- I'm currently working on authentication with [Node.js][node]
-- I'm currently learning everything
-- 2020 Goals: Play more coding with it
+## I'm a student, youngster and a humans with dreams👨‍🎓💪
+- 🔐I'm currently working on authentication with [Node.js][node]
+- 📚I'm currently learning everything
+- 👩‍💻2020 Goals: Play more coding with it
 
 ---
-### Tools
+### 🔧Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio Community" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" />
 <img align="left" alt="Notepad++" width="26px" src="https://notepad-plus-plus.org/images/logo.svg" />
@@ -18,7 +18,7 @@
 
 <br/>
 
-### Languages
+### 🌎Languages
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -29,6 +29,14 @@
 <img align="left" alt="Visual Basic" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
+<br />
+<br />
+
+---
+
+### 📕Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [profile]: https://github.com/tengfong00
 [node]: https://nodejs.org/en/
