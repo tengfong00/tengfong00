@@ -44,7 +44,7 @@
 ---
 
 ### 📊Github Stats
-[Simpsons's github stats](https://github-readme-stats.vercel.app/api?username=tengfong00)
+<img align="left" alt="Stats"src="https://github-readme-stats.vercel.app/api?username=tengfong00&show_icons=true&hide_border=true" />
 
 
 [profile]: https://github.com/tengfong00
