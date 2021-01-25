@@ -3,7 +3,7 @@
 ## I'm a student, youngster and a humans with dreams👨‍🎓💪
 - 🔐I'm currently working on authentication with [Node.js][node]
 - 📚I'm currently learning everything
-- 👩‍💻2020 Goals: Play more coding with it
+- 👩‍💻2021 Goals: Play more coding with it
 
 ---
 ### 🔧Tools
