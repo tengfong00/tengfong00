@@ -2,6 +2,7 @@
 
 ## I'm a student, youngster and a humans with dreams👨‍🎓💪
 - 🔐I'm currently working on authentication with [Node.js][node]
+- 🇲🇾I'm currently doing [Malaysia Covid Stat Scriptable Script][covid]
 - 📚I'm currently learning everything
 - 👩‍💻2021 Goals: Play more coding with it
 
@@ -34,15 +35,6 @@
 
 ---
 
-### 📕Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br />
-<br />
-
----
-
 ### 📊GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tengfong00&show_icons=true&hide_border=true" />
@@ -51,3 +43,4 @@
 
 [profile]: https://github.com/tengfong00
 [node]: https://nodejs.org/en/
+[covid]: https://github.com/tengfong00/malaysia_covid
