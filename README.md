@@ -33,6 +33,8 @@
 <br />
 <br />
 
+---
+
 ### 📌Pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tengfong00&theme=dark&show_icons=true&hide_border=true&repo=responsive-square-example)](https://github.com/tengfong00/responsive-square-example)
 
