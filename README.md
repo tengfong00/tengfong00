@@ -33,13 +33,15 @@
 <br />
 <br />
 
----
+### 📌Pins
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tengfong00&theme=dark&show_icons=true&hide_border=true&repo=responsive-square-example)](https://github.com/tengfong00/responsive-square-example)
 
+---
 ### 📊GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tengfong00&theme=dark&show_icons=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengfong00&theme=dark&layout=compact&show_icons=true&hide_border=true"/>
 </a>
-
 
 [profile]: https://github.com/tengfong00
 [node]: https://nodejs.org/en/
